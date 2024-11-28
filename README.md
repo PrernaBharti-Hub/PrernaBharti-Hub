@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Prerna Bharti.
+- 👀 I’m interested in web development and data analytics.
+- 🌱 I’m currently learning PowerBi and Python.
+- 📫 Connect me via https://www.linkedin.com/in/prerna-bharti-pree/.
